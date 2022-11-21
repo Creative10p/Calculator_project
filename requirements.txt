@@ -1,0 +1,5 @@
+Библиотеки:
+  1) sys
+  2) PyQt5
+  3) sympy
+  4) sqlite3
